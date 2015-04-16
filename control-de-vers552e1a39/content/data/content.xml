@@ -1,0 +1,1506 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-138302.06721300646" y="-104927.59467765727" width="276604.1344260129" height="209855.18935531453"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>es</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="0_24309637" type="image" x="5.500857281207884e-12" y="-2.538857206711331e-12" r="0" s="72.79056169105603">
+      <source w="3800" h="2883">1597700133<url>1597700133.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Ff%2Fe%2F7%2Fa8e2323d2f43ad599965873bf57abe337d919.png</sourceUrl>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    <resource><id>1597700133</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/e/7/a8e2323d2f43ad599965873bf57abe337d919.png</url></resource></object>
+    <object id="1_24309637" type="button" x="-3672.5796076947618" y="19114.99838107699" r="0" s="114.44420506846916" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1109.96259803167</w>
+        <h>606.2724056409133</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="0_30863873" type="shape" x="-29545.50104522433" y="7853.126015881981" r="149.99999993021476" s="11.86605311745662" class="line3">
+      <geom type="line">
+        <sp>99.82994748314606 0</sp>
+        <ep>-99.82994748314604 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="16_30863873" type="button" x="-24419.51387511125" y="5173.898954693534" r="2.9669353371861177e-16" s="11.357229114515786" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="17_30863873" type="button" x="-9438.93912693592" y="-2714.7421531900036" r="2.9669353371861177e-16" s="11.357229114515786" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="18_30863873" type="button" x="11624.71344534538" y="402.4335146224795" r="2.96693533718612e-16" s="13.816214877015469" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="19_30863873" type="button" x="17083.81870743247" y="20091.50836128353" r="2.9669353371861177e-16" s="12.923415744909756" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="20_30863873" type="button" x="-23416.736310346816" y="19268.659244861446" r="2.966935337186116e-16" s="7.613063584906869" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="21_30863873" type="shape" x="-15327.39036014585" y="23789.943908641344" r="-37.46752425251809" s="32.56044975430091" class="line3">
+      <geom type="line">
+        <sp>54.16573353803658 0</sp>
+        <ep>-54.16573353803658 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="22_30863873" type="shape" x="14220.118290415585" y="10580.778977198324" r="79.11188375906427" s="11.86605311745662" class="line3">
+      <geom type="line">
+        <sp>421.3521638256318 0</sp>
+        <ep>-421.3521638256318 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="23_30863873" type="shape" x="6339.223856720495" y="18532.78843208179" r="-169.5669973449051" s="32.560449754300976" class="line3">
+      <geom type="line">
+        <sp>174.78970776810715 0</sp>
+        <ep>-174.78970776810718 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="24_30863873" type="shape" x="-16494.503591241697" y="2131.334711406025" r="-29.999999999999986" s="32.560449754300905" class="line3">
+      <geom type="line">
+        <sp>-124.75363655708772 0</sp>
+        <ep>124.75363655708772 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="25_30863873" type="button" x="-7276.931334811957" y="18143.714534056264" r="0" s="20.29643496139411" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="1_30863873" type="shape" x="319.35669251569766" y="-203.1391196392336" r="5.428155650575616" s="11.866053117456628" class="line3">
+      <geom type="line">
+        <sp>-485.3647936311651 0</sp>
+        <ep>485.364793631165 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight2</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="2_30863873" type="text" x="-23377.401439985068" y="17945.571249429515" r="2.9669353371861177e-16" s="16.783552445027414" class="strong">
+      <height>54.375</height>
+      <width>262.4060164868332</width>
+      <p align="center">
+        <text><![CDATA[VAMOS A VER UN EJEMPLO]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="20_30863873"/>
+      </layout>
+    </object>
+    <object id="4_30863873" type="textwithplaceholder" x="-23439.24070094756" y="19021.61498876453" r="2.9669353371861206e-16" s="9.68402504911229" class="body">
+      <placeholder text="Clic para agregar texto" x="-195.45" y="-13.55" align="left" width="390.9237784827681"/>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="body" parent-id="20_30863873"/>
+      </layout>
+    </object>
+    <object id="75_110812180" type="image" x="-26643.45" y="5691.7" r="0" s="1.9122373885015087">
+      <source w="543" h="205">3279274111<url>3279274111.png</url></source>
+      <sourceUrl>captura30.png</sourceUrl>
+    <resource><id>3279274111</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/5/b/5dfccc3f0c9ec00322ef53e03fbbf8316ef40.png</url></resource></object>
+    <object id="5_30863873" type="text" x="-24424.54604927701" y="3217.7308011539353" r="2.9669353371861196e-16" s="25.037837704595997" class="strong">
+      <height>54.375</height>
+      <width>268.80616323041454</width>
+      <p align="center">
+        <text><![CDATA[Egit]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[I]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="16_30863873"/>
+      </layout>
+    </object>
+    <object id="7_30863873" type="text" x="-9065.245864150736" y="-4901.324482766137" r="2.96693533718612e-16" s="19.72469044103314" class="strong">
+      <height>135.9375</height>
+      <width>248.3896951183902</width>
+      <p align="center">
+        <text><![CDATA[2-.Un sistema de control de versiones nos debe proporcionar:]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="17_30863873"/>
+      </layout>
+    </object>
+    <object id="76_110812180" type="image" x="7565.55" y="-604.9" r="2.96693533718612e-16" s="4.636945292802779">
+      <source w="259" h="350">3279282841<url>3279282841.gif</url></source>
+      <sourceUrl>captura31.gif</sourceUrl>
+    <resource><id>3279282841</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/a/0/859346d30246dbdd4251718f5ba956e763594.gif</url></resource></object>
+    <object id="77_110812180" type="image" x="15661.6" y="-604.9" r="2.96693533718612e-16" s="5.62530890206378">
+      <source w="225" h="225">3279289837<url>3279289837.png</url></source>
+      <sourceUrl>descarga.png</sourceUrl>
+    <resource><id>3279289837</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/9/d6de05840eb58699d6c476168e9bd15a0c55c.png</url></resource></object>
+    <object id="9_30863873" type="text" x="11628.795556590072" y="-1977.2701324875673" r="2.9669353371861177e-16" s="30.458850683958108" class="strong">
+      <height>54.375</height>
+      <width>268.8061632304145</width>
+      <p align="center">
+        <text><![CDATA[¿QUE ES EL CONTROL ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[DE VERSIONES?]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="18_30863873"/>
+      </layout>
+    </object>
+    <object id="10_30863873" type="text" x="11583.87239722481" y="671.1405266810547" r="2.9669353371861177e-16" s="17.57460310960642" class="body">
+      <height>108.75</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[gestion de los diversos cambios que se realizan sobre un elemento o una parte del mismo .]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="18_30863873"/>
+      </layout>
+    </object>
+    <object id="11_30863873" type="text" x="17124.161624412747" y="17865.580358930056" r="2.966935337186115e-16" s="28.49061005527374" class="strong">
+      <height>54.375</height>
+      <width>257.28589909196813</width>
+      <p align="center">
+        <text><![CDATA[INDICE]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="19_30863873"/>
+      </layout>
+    </object>
+    <object id="12_30863873" type="text" x="17045.616794027235" y="19895.712498039728" r="2.966935337186113e-16" s="16.43893820116168" class="body">
+      <height>54.375</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[¿QUE ES EL CONTROL DE VERSIONES?]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="19_30863873"/>
+      </layout>
+    </object>
+    <object id="12_4" type="text" x="-7268.857034306924" y="14120.876253413102" r="0" s="44.74496722935397" class="strong">
+      <height>27.1875</height>
+      <width>264.96607518426583</width>
+      <p align="center">
+        <text><![CDATA[REALIZADO POR:]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="25_30863873"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="-7336.928062158281" y="17836.213941141963" r="0" s="25.817620249946113" class="body">
+      <height>54.375</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[JAIME HERRERIAS JIMENEZ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[JUAN ANTONIO CUBERO ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="25_30863873"/>
+      </layout>
+    </object>
+    <object id="2_24309637" type="text" x="-3683.5088933249376" y="39842.02426920072" r="0" s="361.1998394155594" class="head">
+      <height>28.8</height>
+      <width>305.86206205546915</width>
+      <p align="center">
+        <text><![CDATA[CONTROL DE VERSIONES PARA ECLIPSE]]></text>
+      </p>
+    </object>
+    <object id="0" type="text" x="11861.371906455102" y="3244.270560523958" r="2.9669353371861206e-16" s="14.926162796554536" class="body">
+      <height>108.75</height>
+      <width>482.47265625</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[es utilizado sobre todo en el sector de la informatica dando lugar a los SCM (Source Code Management)  ]]></text>
+      </p>
+    </object>
+    <object id="1" type="button" x="-11079.776962923035" y="-1564.7123253230711" r="2.9669353371861206e-16" s="2.3768340625791327" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="2" type="text" x="-11088.13362175073" y="-1563.2715220769176" r="2.966935337186122e-16" s="2.6327966832807355" class="body">
+      <height>81.5625</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Mecanismo de almacenamiento de los elementos que deba gestionar (archivos de textos etc).]]></text>
+      </p>
+    </object>
+    <object id="3" type="button" x="-8088.957584556895" y="-1565.000485972302" r="2.96693533718612e-16" s="2.24939220600364" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="4" type="text" x="-8092.202124929404" y="-1805.1819834239168" r="2.9669353371861196e-16" s="2.4960773155065077" class="body">
+      <height>81.5625</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Mecanismo de almacenamiento de los elementos que deba gestionar (archivos de textos etc).]]></text>
+      </p>
+    </object>
+    <object id="5" type="button" x="-9309.317934049195" y="102.29703047692271" r="2.9669353371861196e-16" s="2.1751258148858956" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="6" type="text" x="-9308.485930092304" y="2.096405139619313" r="2.96693533718612e-16" s="2.565138540468108" class="body">
+      <height>81.5625</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Mecanismo de almacenamiento de los elementos que deba gestionar (archivos de textos etc).]]></text>
+      </p>
+    </object>
+    <object id="7" type="text" x="-12273.338372036878" y="-2070.5063048853776" r="2.96693533718612e-16" s="11.52642596923073" class="body">
+      <height>27.1875</height>
+      <width>216.03515625</width>
+      <p align="right">
+        <text><![CDATA[1]]></text>
+      </p>
+    </object>
+    <object id="8" type="text" x="-9302.97839976612" y="-2070.794465534608" r="2.96693533718612e-16" s="11.52642596923073" class="body">
+      <height>27.1875</height>
+      <width>216.03515625</width>
+      <p align="right">
+        <text><![CDATA[2]]></text>
+      </p>
+    </object>
+    <object id="9" type="text" x="-9259.466141732271" y="-360.272851700768" r="2.96693533718612e-16" s="11.52642596923073" class="body">
+      <height>27.1875</height>
+      <width>-14.40234375</width>
+      <p>
+        <text><![CDATA[3]]></text>
+      </p>
+    </object>
+    <object id="10" type="button" x="-26577.7" y="4666.75" r="0" s="3.9890775210231952" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="11" type="text" x="-26593.95165785954" y="3770.960397542243" r="0" s="8.188951872129639" class="body">
+      <height>27.1875</height>
+      <width>160.7113368315416</width>
+      <p>
+        <text><![CDATA[DEFINICION]]></text>
+      </p>
+    </object>
+    <object id="12" type="text" x="-26618.42866964576" y="4811.774256412414" r="0" s="8.188951872129639" class="body">
+      <height>135.9375</height>
+      <width>281.7577479770006</width>
+      <p>
+        <text><![CDATA[Es un plugin que sincroniza eclipse con los repositorios que este crea.]]></text>
+      </p>
+    </object>
+    <object id="13" type="button" x="-22527.823235563" y="4666.18539299383" r="0" s="3.2833791997873822" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="14" type="text" x="-22520.804759307768" y="3826.271179886517" r="0" s="5.848730212698349" class="body">
+      <height>27.1875</height>
+      <width>-158.42578125</width>
+      <p>
+        <text><![CDATA[INSTALACIÓN]]></text>
+      </p>
+    </object>
+    <object id="15" type="button" x="-23077.31143904601" y="4309.7052865298665" r="0" s="0.6913554839756738" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="16" type="text" x="-23100.121486875538" y="4135.111551039861" r="0" s="1.4621825531745871" class="body">
+      <height>27.1875</height>
+      <width>-86.4140625</width>
+      <p>
+        <text><![CDATA[PASO 1]]></text>
+      </p>
+    </object>
+    <object id="17" type="text" x="-23076.120988939252" y="4278.390687959656" r="0" s="0.4940543506299694" class="body">
+      <height>299.0625</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Para descargar Egit debemos agregar el repositorio EGit.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ le agregamos un nombre que debe de corresponderse con lo que vamos a instalar ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[y enlace de descargar que adjunto a continuación: http://download.eclipse.org/egit/github/updates]]></text>
+      </p>
+    </object>
+    <object id="18" type="image" x="-23077.28422376597" y="4434.745736782814" r="0" s="0.634715663232898">
+      <source w="492" h="191">3269078371<url>3269078371.PNG</url></source>
+      <sourceUrl>Captura1.PNG</sourceUrl>
+    <resource><id>3269078371</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/0/d/63ebd864294ed6eb879250f77fc2e384a90d1.PNG</url></resource></object>
+    <object id="19" type="button" x="-22196.07604351872" y="4309.693951578631" r="0" s="0.7088143147694644" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="20" type="text" x="-22196.993013529383" y="4131.565363179113" r="0" s="1.1462125133288887" class="body">
+      <height>27.1875</height>
+      <width>-86.4140625</width>
+      <p>
+        <text><![CDATA[PASO 2]]></text>
+      </p>
+    </object>
+    <object id="21" type="text" x="-22200.08778731537" y="4212.609751699674" r="0" s="0.6332168357922866" class="body">
+      <height>108.75</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Una vez agregado, en la siguiente ventana de cogemos las dos opciones ya que una son las librerías de JGit y el otro es el plugin.]]></text>
+      </p>
+    </object>
+    <object id="24" type="image" x="-22190.631534080396" y="4393.138222548972" r="0" s="0.5781059229951869">
+      <source w="570" h="446">3269092579<url>3269092579.PNG</url></source>
+      <sourceUrl>Captura2.PNG</sourceUrl>
+    <resource><id>3269092579</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/e/85bbecb22b5dfaf644e6440e5b67e3d26760f.PNG</url></resource></object>
+    <object id="26" type="button" x="-22634.273087364352" y="5009.972486596916" r="0" s="0.7541749033742995" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="27" type="text" x="-22652.38324507495" y="4821.871849331437" r="0" s="1.1462125133288887" class="body">
+      <height>27.1875</height>
+      <width>-86.4140625</width>
+      <p>
+        <text><![CDATA[PASO 3]]></text>
+      </p>
+    </object>
+    <object id="28" type="text" x="-22634.089550669476" y="4946.518743590471" r="0" s="0.5853994875782196" class="body">
+      <height>81.5625</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Una vez terminado Eclipse nos pide reiniciar el programa para hacer efectivos los cambios realizados.]]></text>
+      </p>
+    </object>
+    <object id="29" type="image" x="-22640.749188064663" y="5066.538074129696" r="0" s="0.7864757288372061">
+      <source w="532" h="151">3269109655<url>3269109655.PNG</url></source>
+      <sourceUrl>Captura3.PNG</sourceUrl>
+    <resource><id>3269109655</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/0/6/1890bb0a4146aa437a6409d50c4637c0f033d.PNG</url></resource></object>
+    <object id="30" type="text" x="17895.05591912265" y="20987.216316912225" r="2.9669353371861177e-16" s="16.43893820116168" class="body">
+      <height>54.375</height>
+      <width>496.875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[QUE PROPORCIONA UN SISTEMA DE CONTROL DE VERSIONES]]></text>
+      </p>
+    </object>
+    <object id="31" type="text" x="15705.667434748546" y="22240.9658008192" r="2.9669353371861177e-16" s="16.43893820116168" class="body">
+      <height>81.5625</height>
+      <width>-230.42578125</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[EGIT]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[DEFINICIÓN]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[INSTALACIÓN]]></text>
+      </p>
+    </object>
+    <object id="0_110812180" type="button" x="-24131.6" y="7128.8" r="89.01404951449591" s="3.698684733038214" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="1_110812180" type="text" x="-23277.22991761405" y="7037.2510514728565" r="89.01404951449591" s="7.233723325060824" class="body">
+      <height>27.1875</height>
+      <width>-187.23046875</width>
+      <p>
+        <text><![CDATA[Configuración]]></text>
+      </p>
+    </object>
+    <object id="2_110812180" type="button" x="-23930.90884960385" y="6558.4339657195305" r="89.01404951449591" s="1.099844201758657" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="3_110812180" type="button" x="-23907.915722773203" y="7712.762426630093" r="89.01404951449591" s="1.0771650670301989" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="5_110812180" type="text" x="-23720.013600580656" y="6549.096674711261" r="89.01404951449591" s="2.0998289343045355" class="body">
+      <height>54.375</height>
+      <width>197.57241478794083</width>
+      <p>
+        <text><![CDATA[Configuración]]></text>
+      </p>
+      <p indent="2">
+        <text><![CDATA[ I]]></text>
+      </p>
+    </object>
+    <object id="6_110812180" type="text" x="-23844.524448788183" y="6588.486699121989" r="89.01404951449591" s="1.3069117956856078" class="body">
+      <height>27.1875</height>
+      <width>349.8234035988689</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[generamos SSH]]></text>
+      </p>
+    </object>
+    <object id="7_110812180" type="button" x="-23977.10508615855" y="6389.555223678091" r="130.22275835209084" s="0.23745641432121023" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="8_110812180" type="image" x="-23977.10508615855" y="6389.555223678091" r="130.22275835209084" s="0.2400276959404687">
+      <source w="569" h="422">3273870436<url>3273870436.PNG</url></source>
+      <sourceUrl>Captura4.PNG</sourceUrl>
+    <resource><id>3273870436</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/e/943fe91b248fc539765dc3e871f74ef13823a.PNG</url></resource></object>
+    <object id="9_110812180" type="button" x="-24151.18090481239" y="6566.57080283996" r="82.08647718463293" s="0.2131168536308346" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="10_110812180" type="image" x="-24151.180904812387" y="6566.623298563317" r="82.08647718463293" s="0.21968736518297463">
+      <source w="535" h="156">3273879763<url>3273879763.PNG</url></source>
+      <sourceUrl>Captura5.PNG</sourceUrl>
+    <resource><id>3273879763</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/3/9/7155a2efee083d48a8be6fd6a07898c2213f0.PNG</url></resource></object>
+    <object id="11_110812180" type="button" x="-23972.17048816293" y="6780.070909735377" r="36.25858210580624" s="0.2826795243364736" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="12_110812180" type="image" x="-23972.17048816293" y="6780.070909735377" r="38.82254266146856" s="0.2672783294203456">
+      <source w="568" h="401">3273892789<url>3273892789.PNG</url></source>
+      <sourceUrl>Captura6.PNG</sourceUrl>
+    <resource><id>3273892789</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/f/e/28a73a63e1501798c23337fbce8e7634d9dff.PNG</url></resource></object>
+    <object id="13_110812180" type="text" x="-23709.87769785504" y="7725.754755079861" r="89.01404951449591" s="2.0998289343045355" class="body">
+      <height>81.5625</height>
+      <width>197.5294151631373</width>
+      <p>
+        <text><![CDATA[configuración]]></text>
+      </p>
+      <p indent="2">
+        <text><![CDATA[ II]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="14_110812180" type="text" x="-23840.760597140492" y="7817.013801074262" r="89.01404951449591" s="1.3069117956856078" class="body">
+      <height>54.375</height>
+      <width>453.66796875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[configuración previa a subir un proyecto.]]></text>
+      </p>
+    </object>
+    <object id="15_110812180" type="button" x="-24042.042295951906" y="7541.416385590841" r="89.01404951449591" s="0.2632766432997185" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="16_110812180" type="image" x="-24042.82973180227" y="7793.238370537314" r="89.01404951449591" s="0.2556260227169084">
+      <source w="568" h="369">3273925852<url>3273925852.PNG</url></source>
+      <sourceUrl>Captura7.PNG</sourceUrl>
+    <resource><id>3273925852</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/7/f/fdd85011cb513ee74ef6f121d933e61768beb.PNG</url></resource></object>
+    <object id="17_110812180" type="button" x="-24037.632655189875" y="7798.697925766506" r="89.01404951449591" s="0.26141380529835434" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="18_110812180" type="image" x="-24042.042295951906" y="7541.416385590841" r="89.01404951449591" s="0.3038808996887063">
+      <source w="390" h="486">3273941554<url>3273941554.PNG</url></source>
+      <sourceUrl>Captura8.PNG</sourceUrl>
+    <resource><id>3273941554</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/9/6/4dd4a35f7723215a5ce14f885f9c4911dc66b.PNG</url></resource></object>
+    <object id="19_110812180" type="button" x="-34268.1" y="13838.05" r="0" s="16.683055488436104" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="4_110812180" type="shape" x="-27885.101890981336" y="18467.560148211436" r="14.999999999999929" s="22.85714285714286" class="line3">
+      <geom type="line">
+        <sp>-54.17955766440613 0</sp>
+        <ep>54.17955766440613 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="20_110812180" type="text" x="-34796.34701390356" y="10050.04391532324" r="-4.315589519322383" s="44.74496722935397" class="body">
+      <height>54.375</height>
+      <width>-57.609375</width>
+      <p>
+        <text><![CDATA[Egit]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ II]]></text>
+      </p>
+    </object>
+    <object id="21_110812180" type="button" x="-36663.52021190315" y="15021.059674899512" r="-4.315589519322383" s="4.026338741936602" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="22_110812180" type="text" x="-36777.05998811598" y="14213.51391042697" r="-4.315589519322384" s="7.999999999999997" class="body">
+      <height>81.5625</height>
+      <width>-115.21875</width>
+      <p>
+        <text><![CDATA[Subida ]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[de]]></text>
+      </p>
+      <p>
+        <text><![CDATA[archivos]]></text>
+      </p>
+    </object>
+    <object id="32_110812180" type="button" x="-37475.89765002087" y="15028.712813948869" r="-4.315589519322384" s="0.9688817984380466" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="25_110812180" type="button" x="-37613.8153901455" y="14912.095489438072" r="-4.315589519322385" s="0.28040493174340714" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="26_110812180" type="image" x="-37613.8153901455" y="14912.095489438072" r="-4.315589519322383" s="0.3253519757698805">
+      <source w="390" h="486">3278902732<url>3278902732.PNG</url></source>
+      <sourceUrl>Captura8.PNG</sourceUrl>
+    <resource><id>3278902732</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/7/3/9485fe98fe1026e66f5c58ca53b9223d3de76.PNG</url></resource></object>
+    <object id="27_110812180" type="button" x="-37327.323977258115" y="14890.47569858448" r="-4.315589519322384" s="0.2838674753746008" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="29_110812180" type="button" x="-37465.13260893194" y="15171.36413986791" r="-4.315589519322383" s="0.3834402378518105" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="30_110812180" type="image" x="-37327.323977258115" y="14890.47569858448" r="-4.315589519322384" s="0.3501514766875973">
+      <source w="425" h="425">3278944684<url>3278944684.PNG</url></source>
+      <sourceUrl>Captura10.PNG</sourceUrl>
+    <resource><id>3278944684</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/b/f/779ca7878dde545cb0b411e40cbd4eb766a1e.PNG</url></resource></object>
+    <object id="31_110812180" type="image" x="-37465.14100441974" y="15171.252888321684" r="-4.315589519322384" s="0.713234885305791">
+      <source w="324" h="174">3278951737<url>3278951737.PNG</url></source>
+      <sourceUrl>Captura11.PNG</sourceUrl>
+    <resource><id>3278951737</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/a/8/d2d72c09c4d5d624ba4647bbc2202871f923c.PNG</url></resource></object>
+    <object id="33_110812180" type="button" x="-35729.961984199595" y="14896.957507364086" r="-4.315589519322384" s="0.8969443024886494" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="34_110812180" type="button" x="-35873.829165659845" y="14806.312981736071" r="-4.315589519322383" s="0.2738033902088736" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="35_110812180" type="button" x="-35625.762300674694" y="14787.592861350498" r="-4.315589519322383" s="0.28818205443376066" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="36_110812180" type="button" x="-35732.263401391734" y="15061.13594603871" r="-4.315589519322383" s="0.2959388841710391" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="37_110812180" type="image" x="-35873.829165659845" y="14806.312981736071" r="-4.315589519322384" s="0.5048565680258266">
+      <source w="234" h="331">3278983873<url>3278983873.PNG</url></source>
+      <sourceUrl>Captura12.PNG</sourceUrl>
+    <resource><id>3278983873</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/a/218bd471ad291635e6323c38416dec60ad738.PNG</url></resource></object>
+    <object id="38_110812180" type="image" x="-35625.762300674694" y="14787.592861350498" r="-4.315589519322384" s="0.3855515348539446">
+      <source w="395" h="358">3278991817<url>3278991817.PNG</url></source>
+      <sourceUrl>Captura13.PNG</sourceUrl>
+    <resource><id>3278991817</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/a/7/bcff5f595c6f4856b8215bb980623f1e85e7c.PNG</url></resource></object>
+    <object id="39_110812180" type="image" x="-35732.263401391734" y="15061.13594603871" r="-4.315589519322384" s="0.6211238428494572">
+      <source w="298" h="180">3278996227<url>3278996227.PNG</url></source>
+      <sourceUrl>Captura14.PNG</sourceUrl>
+    <resource><id>3278996227</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/7/d/958dd4ec509d0b2b076158b41212958e49653.PNG</url></resource></object>
+    <object id="40_110812180" type="button" x="-36525.3673075448" y="15814.563487125612" r="-4.315589519322383" s="1.2279162769572634" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="41_110812180" type="button" x="-36719.50908996491" y="15601.38140155139" r="-4.315589519322383" s="0.40559462591518103" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="42_110812180" type="image" x="-36719.50908996491" y="15601.38140155139" r="-4.315589519322383" s="0.6053868336365572">
+      <source w="393" h="310">3279009052<url>3279009052.PNG</url></source>
+      <sourceUrl>Captura15.PNG</sourceUrl>
+    <resource><id>3279009052</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/7/8/e61c234f0a0fae0860b063ae14d516c81b963.PNG</url></resource></object>
+    <object id="43_110812180" type="button" x="-36379.80082633229" y="15575.745653739785" r="-4.315589519322384" s="0.39336019564374025" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="44_110812180" type="image" x="-36379.80082633229" y="15575.745653739776" r="-4.315589519322384" s="0.5501508379477859">
+      <source w="428" h="293">3279016660<url>3279016660.PNG</url></source>
+      <sourceUrl>Captura16.PNG</sourceUrl>
+    <resource><id>3279016660</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/7/11cdabad448d58c59cc93c100cb96af0575f4.PNG</url></resource></object>
+    <object id="45_110812180" type="button" x="-36691.3033823789" y="15975.145101326489" r="-4.315589519322383" s="0.4407727706740802" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="46_110812180" type="image" x="-36691.64260669158" y="15973.468868224842" r="-4.315589519322384" s="0.5258465337988242">
+      <source w="571" h="305">3279026122<url>3279026122.PNG</url></source>
+      <sourceUrl>Captura17.PNG</sourceUrl>
+    <resource><id>3279026122</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/b/6/3ac8a400075547772e45f99055f6d6f0031ac.PNG</url></resource></object>
+    <object id="47_110812180" type="button" x="-36316.90510925955" y="15946.891506291273" r="-4.315589519322384" s="0.4411270905826958" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="48_110812180" type="image" x="-36316.69358481144" y="15946.8755438082" r="-4.315589519322384" s="0.5237491604707871">
+      <source w="568" h="305">3279038821<url>3279038821.PNG</url></source>
+      <sourceUrl>Captura18.PNG</sourceUrl>
+    <resource><id>3279038821</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/8/2/dbdf27b28541246a57c8a0edfdc3dc5fc1e75.PNG</url></resource></object>
+    <object id="49_110812180" type="button" x="-32001.977967050178" y="14605.450023963613" r="-4.315589519322384" s="3.784043584760703" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="51_110812180" type="button" x="-32651.882023108137" y="14296.32888198298" r="-4.315589519322383" s="1.4086474198512715" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="52_110812180" type="button" x="-31442.15" y="14204.95" r="-4.315589519322383" s="1.1781037118521065" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="53_110812180" type="text" x="-32013.75" y="13456.55" r="-4.3155895193223826" s="4.061730663427198" class="body">
+      <height>81.5625</height>
+      <width>205.4126965300105</width>
+      <p>
+        <text><![CDATA[modificación de un repositorio]]></text>
+      </p>
+    </object>
+    <object id="54_110812180" type="button" x="-32905.70840579069" y="14071.382101381594" r="-4.315589519322383" s="0.4018882226151933" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="55_110812180" type="button" x="-32467.77885576848" y="14038.60271997428" r="-4.315589519322383" s="0.41486523568659167" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="56_110812180" type="button" x="-32700.26367706256" y="14434.51776658256" r="-4.315589519322385" s="0.45321240635325466" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="57_110812180" type="image" x="-32909.542343220695" y="14066.837731866535" r="-4.315589519322383" s="0.4063869145998053">
+      <source w="563" h="330">3279094087<url>3279094087.PNG</url></source>
+      <sourceUrl>19.PNG</sourceUrl>
+    <resource><id>3279094087</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/d/2/a09ae44e3f2b9610b06c53b1d3701f8864ed2.PNG</url></resource></object>
+    <object id="58_110812180" type="image" x="-32467.77885576848" y="14038.60271997428" r="-4.315589519322383" s="0.4316902507918686">
+      <source w="530" h="266">3279136720<url>3279136720.PNG</url></source>
+      <sourceUrl>Captura20.PNG</sourceUrl>
+    <resource><id>3279136720</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/d/9/a52558c5d75f2fe89f8eb4b806b5fccdfe8de.PNG</url></resource></object>
+    <object id="59_110812180" type="image" x="-32700.26367706256" y="14434.51776658256" r="-4.315589519322383" s="0.4498339151025462">
+      <source w="526" h="382">3279142747<url>3279142747.PNG</url></source>
+      <sourceUrl>Captura21.PNG</sourceUrl>
+    <resource><id>3279142747</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/7/9/bfdadba38b6e7ef45e013fb2eeb022ac8856b.PNG</url></resource></object>
+    <object id="60_110812180" type="button" x="-31636.06674005809" y="14024.277709890092" r="-4.315589519322383" s="0.42363966294291666" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="61_110812180" type="button" x="-31274.555801459257" y="13996.99664479631" r="-4.315589519322385" s="0.413938768563033" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="62_110812180" type="image" x="-31636.280146751444" y="14024.293814414938" r="-4.315589519322385" s="0.41734536623630647">
+      <source w="505" h="484">3279152971<url>3279152971.PNG</url></source>
+      <sourceUrl>captura22.PNG</sourceUrl>
+    <resource><id>3279152971</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/d/d/ce72950ead4777331eb25b244bdb0ed34da3f.PNG</url></resource></object>
+    <object id="63_110812180" type="image" x="-31274.555801459257" y="13996.996644796298" r="-4.315589519322385" s="0.45679161608469465">
+      <source w="521" h="475">3279158128<url>3279158128.PNG</url></source>
+      <sourceUrl>Captura23.PNG</sourceUrl>
+    <resource><id>3279158128</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/a/5/9e7f74a0c2efd5282346b7f967bb30d1f1f2e.PNG</url></resource></object>
+    <object id="64_110812180" type="button" x="-31429.40735993087" y="14382.339275779765" r="-4.315589519322384" s="0.5052594200040955" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="65_110812180" type="image" x="-31429.40735993087" y="14382.339275779765" r="-4.315589519322384" s="0.69661928679707">
+      <source w="400" h="191">3279172306<url>3279172306.PNG</url></source>
+      <sourceUrl>Captura24.PNG</sourceUrl>
+    <resource><id>3279172306</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/1/c/4781bea404249c8ca3801f2286b88338e956a.PNG</url></resource></object>
+    <object id="66_110812180" type="button" x="-31939.6" y="15433.5" r="-4.315589519322384" s="1.3902253009430394" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="67_110812180" type="button" x="-32189.274060481857" y="15374.405009397458" r="-4.315589519322385" s="0.5105363985010976" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="68_110812180" type="button" x="-31746.73544825497" y="15340.737715740706" r="-4.315589519322384" s="0.4870763725490592" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="69_110812180" type="image" x="-32189.274060481857" y="15374.405009397458" r="-4.315589519322384" s="0.571581557217798">
+      <source w="568" h="309">3279187957<url>3279187957.PNG</url></source>
+      <sourceUrl>Captura25.PNG</sourceUrl>
+    <resource><id>3279187957</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/2/eced1255b4bf13f5ac0f674042e1efd0407f1.PNG</url></resource></object>
+    <object id="70_110812180" type="image" x="-31746.73544825497" y="15340.737715740706" r="-4.315589519322385" s="0.487513369885122">
+      <source w="551" h="263">3279195217<url>3279195217.PNG</url></source>
+      <sourceUrl>Captura26.PNG</sourceUrl>
+    <resource><id>3279195217</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/0/1/75c23e8a6e544a757f451eafc335704222c4a.PNG</url></resource></object>
+    <object id="71_110812180" type="button" x="-18570.6" y="26730.9" r="2.966935337186116e-16" s="6.629248886986274" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="72_110812180" type="shape" x="-21371.190290037925" y="23463.67848624437" r="59.999999999999986" s="31.999999999999996" class="line3">
+      <geom type="line">
+        <sp>53.84425423705013 0</sp>
+        <ep>-53.84425423705014 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="73_110812180" type="text" x="-18485.599999999995" y="25277.55" r="2.9669353371861177e-16" s="16" class="body">
+      <height>27.1875</height>
+      <width>-172.828125</width>
+      <p>
+        <text><![CDATA[BIBLIOGRAFÍA]]></text>
+      </p>
+    </object>
+    <object id="74_110812180" type="text" x="-18591.81760748991" y="26302.767244045055" r="2.9669353371861177e-16" s="7.204102871413368" class="head">
+      <height>86.4</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[http://dawblog.iesgrancapitan.org/?p=425 http://www.redeszone.net/2013/03/14/como-configurar-y-utilizar-git-en-eclipse/ http://es.wikipedia.org/wiki/Eclipse_%28software%29]]></text>
+      </p>
+    </object>
+    <object id="23_110812180" type="image" x="33709.8" y="48287.6" r="0" s="131.05832278314537">
+      <source w="88" h="31">3281997676<url>3281997676.png</url></source>
+      <sourceUrl>cc.png</sourceUrl>
+    <resource><id>3281997676</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/c/6/c009b1dd1aa8a5f3091b5b60492caab098e6e.png</url></resource></object>
+    <object id="24_110812180" type="text" x="-18897.917576223746" y="27426.35988180507" r="0" s="8.228226480846706" class="body">
+      <height>54.375</height>
+      <width>403.603028354104</width>
+      <p>
+        <text><![CDATA[Este recurso se encuentra en la siguiente url:]]></text>
+      </p>
+    </object>
+    <object id="28_110812180" type="text" x="-18377.80997856927" y="27958.956333863523" r="0" s="8.228226480846706" class="body">
+      <height>54.375</height>
+      <width>422.38603012172223</width>
+      <p>
+        <text><![CDATA[https://prezi.com/k31is0qwwik8/edit/#1_24309637]]></text>
+      </p>
+    </object>
+    <object id="50_110812180" type="text" x="-7509.95" y="20841.45" r="0" s="23.062203026952588" class="body">
+      <height>27.1875</height>
+      <width>-446.47265625</width>
+      <p>
+        <text><![CDATA[Twitter de Juan: @cuberolopez96]]></text>
+      </p>
+    </object>
+    <object id="78_110812180" type="text" x="-7012.172699002009" y="22130.05182239764" r="0" s="23.062203026952588" class="body">
+      <height>27.1875</height>
+      <width>-489.6796875</width>
+      <p>
+        <text><![CDATA[Twitter de Jaime: @JaimeHerreriasJ]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="23.98229092120858" fadescale="0.7689647415678905">
+      <object id="background1597124533" type="image" x="-363.48327059074074" y="2744.2096365096427" r="0" s="65.79244744356262">
+        <source w="3000" h="2894">1597124533<url>1597124533.jpg</url></source>
+        <sourceUrl>starsonlysmall.jpg</sourceUrl>
+      <resource><id>1597124533</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/9/f/79a524880b1d047e9e418e2028904fcb01a85.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="1_24309637"/>
+    </s>
+    <s>
+      <eagle o="25_30863873"/>
+    </s>
+    <s>
+      <eagle o="19_30863873"/>
+    </s>
+    <s>
+      <eagle o="18_30863873"/>
+    </s>
+    <s>
+      <eagle o="17_30863873"/>
+    </s>
+    <s>
+      <eagle o="1"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="16_30863873"/>
+    </s>
+    <s>
+      <eagle o="10"/>
+    </s>
+    <s>
+      <eagle o="13"/>
+    </s>
+    <s>
+      <eagle o="15"/>
+    </s>
+    <s>
+      <eagle o="19"/>
+    </s>
+    <s>
+      <eagle o="26"/>
+    </s>
+    <s>
+      <eagle o="2_110812180"/>
+    </s>
+    <s>
+      <eagle o="7_110812180"/>
+    </s>
+    <s>
+      <eagle o="11_110812180"/>
+    </s>
+    <s>
+      <eagle o="9_110812180"/>
+    </s>
+    <s>
+      <eagle o="3_110812180"/>
+    </s>
+    <s>
+      <eagle o="15_110812180"/>
+    </s>
+    <s>
+      <eagle o="17_110812180"/>
+    </s>
+    <s>
+      <eagle o="0_110812180"/>
+    </s>
+    <s>
+      <eagle o="19_110812180"/>
+    </s>
+    <s>
+      <eagle o="21_110812180"/>
+    </s>
+    <s>
+      <eagle o="32_110812180"/>
+    </s>
+    <s>
+      <eagle o="25_110812180"/>
+    </s>
+    <s>
+      <eagle o="27_110812180"/>
+    </s>
+    <s>
+      <eagle o="29_110812180"/>
+    </s>
+    <s>
+      <eagle o="33_110812180"/>
+    </s>
+    <s>
+      <eagle o="34_110812180"/>
+    </s>
+    <s>
+      <eagle o="35_110812180"/>
+    </s>
+    <s>
+      <eagle o="36_110812180"/>
+    </s>
+    <s>
+      <eagle o="40_110812180"/>
+    </s>
+    <s>
+      <eagle o="41_110812180"/>
+    </s>
+    <s>
+      <eagle o="43_110812180"/>
+    </s>
+    <s>
+      <eagle o="45_110812180"/>
+    </s>
+    <s>
+      <eagle o="47_110812180"/>
+    </s>
+    <s>
+      <eagle o="49_110812180"/>
+    </s>
+    <s>
+      <eagle o="51_110812180"/>
+    </s>
+    <s>
+      <eagle o="54_110812180"/>
+    </s>
+    <s>
+      <eagle o="55_110812180"/>
+    </s>
+    <s>
+      <eagle o="56_110812180"/>
+    </s>
+    <s>
+      <eagle o="52_110812180"/>
+    </s>
+    <s>
+      <eagle o="60_110812180"/>
+    </s>
+    <s>
+      <eagle o="61_110812180"/>
+    </s>
+    <s>
+      <eagle o="64_110812180"/>
+    </s>
+    <s>
+      <eagle o="66_110812180"/>
+    </s>
+    <s>
+      <eagle o="67_110812180"/>
+    </s>
+    <s>
+      <eagle o="68_110812180"/>
+    </s>
+    <s>
+      <eagle o="20_30863873"/>
+    </s>
+    <s>
+      <eagle o="71_110812180"/>
+    </s>
+    <s>
+      <eagle o="1_24309637"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LiberationMonoPR-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LeagueGothic-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LeagueGothic;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LeagueGothic-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LeagueGothic;
+}
+
+.line1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	color: #3682a2;
+	gradEndColor: #3682a2;
+	gradStartColor: #3682a2;
+}
+
+.line2
+{
+	borderAlpha: 0;
+	borderColor: #6c7279;
+	color: #6c7279;
+	gradEndColor: #6c7279;
+	gradStartColor: #6c7279;
+}
+
+.line3
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+.line4
+{
+	borderAlpha: 0;
+	borderColor: #6a84a7;
+	color: #edc213;
+	gradEndColor: #6a84a7;
+	gradStartColor: #6a84a7;
+}
+
+.line5
+{
+	borderAlpha: 0;
+	borderColor: #7a4780;
+	color: #7a4780;
+	gradEndColor: #d84b4e;
+	gradStartColor: #d84b4e;
+}
+
+.poly1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #222;
+	gradStartColor: #222;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	borderThickness: 0;
+	color: #000;
+	gradEndColor: #6c7279;
+	gradStartColor: #6c7279;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderColor: #edc213;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #9fc4f6;
+	gradStartColor: #9fc4f6;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderColor: #edc213;
+	borderThickness: 0;
+	color: #000;
+	gradEndColor: #6a84a7;
+	gradStartColor: #6a84a7;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #d84b4e;
+	gradStartColor: #d84b4e;
+}
+
+Background
+{
+	gradEnd: #000;
+	gradStart: #000;
+}
+
+Grid
+{
+	color: #464646;
+}
+
+ZArrow
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 0.6;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.6;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 4;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 4;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 6;
+	gradEndAlpha: 0.2;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.2;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 10;
+	thickness: 4;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #6a84a7;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #50c8fa;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #333;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #6c7279;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZLoadedImage
+{
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.75;
+	color: #d84b4e;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>7fd40895</hash>
+<sync><oid>k31is0qwwik8</oid><title>control-de-versiones-para-eclipse</title><hash>7fd40895</hash></sync><config>jgKzSVKqBzceDwoYD7RZ72R7qXAyXmN3EGKNGrxnaavFH1ntFhxIcvKybbBQUgw0QXt1FOkr4RA/CZkPfgUurdUGWXq1cVwiZ7wBTXDAKajcrqcaAYPxWWyQiYDMpN1lMkNdXDOexLgj/SwzcDHXaqPEVAwpbrcfb7edye5ly5CIVhLZhmDsHTWgg2C2kE4m9GT/YIcUlckVrNEkjkb21nc/+lm7vegrWrFnPirlk8/cVXEROWcNS7VJ4lLM+aMkG0LWH9oBHjsfPLxzBfvSn7dIcLW5/eUBZAxgrHMQ+FMOcLf9MuVUSzA/Pdduu0DOzzKYKz6+zGds6/eWriccqQ==</config></zuiprezi>
